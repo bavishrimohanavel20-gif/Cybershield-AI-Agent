@@ -1,0 +1,18 @@
+spec_version: "0.1.0"
+name: ai-cybercrime-safety-agent
+version: "1.0.0"
+description: An AI agent that helps users detect cyber scams, understand cybercrime, and stay safe online.
+
+model:
+  preferred: claude-sonnet
+
+skills:
+  - scam-detector
+  - cyber-explainer
+  - safety-advisor
+  - response-guide
+
+tags:
+  - cybersecurity
+  - safety
+  - awareness
