@@ -28,6 +28,5 @@ Project Structure
 - RULES.md → Agent rules
 - skills/ → Agent capabilities
 
-
-## 🎯 Purpose
+Purpose
 To create awareness about cybercrime and help users make safe decisions online.
